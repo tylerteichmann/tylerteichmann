@@ -12,9 +12,9 @@ Embedded software engineer. CU Boulder and Marquette University alumni. Backgrou
 
 ### [lasers](https://github.com/tylerteichmann/lasers) 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-experimental-orange)
 
-Python package for laser-specific calculations. Available on PyPI.
+Python package for laser-specific calculations. Available on PyPI. Breaking changes expected.
 
 ### [masterdex](https://github.com/tylerteichmann/masterdex) 
 
