@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tyler Teichmann
 
-<!--
-**tylerteichmann/tylerteichmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded software engineer. CU Boulder and Marquette University alumni. Background in defense and military operations.
 
-Here are some ideas to get you started:
+## What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C/C++, Python, Java
+
+**Tools:** Linux, Git, CI/CD
+
+## Projects
+
+### [lasers](https://github.com/tylerteichmann/lasers)
+Python package for laser-specific calculations. Built to provide a reusable set of functions for common optical and laser physics formulas.
+
+### [masterDex](https://github.com/tylerteichmann/masterDex)
+Lightweight SQLite-based Pokedex spanning multiple generations. Built as a personal tool for quick lookups without needing a full web app or API dependency.
