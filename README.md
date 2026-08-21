@@ -1,6 +1,6 @@
 # Tyler Teichmann
 
-Embedded software engineer. CU Boulder and Marquette University alumni. Background in defense and military operations.
+Embedded software engineer. University of Colorado Boulder and Marquette University alumni. Background in defense and military operations.
 
 ## What I Work With
 
